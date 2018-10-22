@@ -1,0 +1,19 @@
+.card{
+    background-color: #dedede;
+    margin: 10px;
+    text-align: left;
+    padding: 5px;
+    
+}
+.cardp{
+    margin: 5px 0 5px 0;
+}
+.deletespan{
+   float: right;
+    
+}
+.deletebtn{
+    border: none;
+    background-color: #dedede00;
+    
+}

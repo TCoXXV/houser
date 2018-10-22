@@ -1,0 +1,37 @@
+.dashboardp{
+    display: flex;
+    height: 90vh;
+    width: 100%;
+    justify-content: center;
+    background-color: #afd4c0;
+}
+.dashboardc{
+    background-color: #e5f4ec;
+    width: 40%
+}
+.dashh1{
+    text-align: left;
+    margin-left: 30px;
+}
+hr{
+    width: 90%;
+    background-color: #3b5249;
+    box-shadow: none;
+}
+h3{
+    text-align: left;
+    margin-left: 30px;
+}
+
+.link1{
+    margin-left: 80px;
+
+}
+.addnewprop{
+    height: 30px;
+    width: 150px;
+    border: none;
+    background-color: #8AEA92;
+    font-weight: 900;
+    font-size: .85rem;
+}

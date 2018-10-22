@@ -1,0 +1,73 @@
+.wizardp{
+    display: flex;
+    height: 90vh;
+    width: 100%;
+    justify-content: center;
+    background-color: #afd4c0;
+}
+.wizardc{
+    background-color: #e5f4ec;
+    width: 50%
+}
+.wizardh1{
+    text-align: left;
+    margin-left: 30px;
+}
+.linkwiz{
+    float: right;
+    margin: 30px;
+}
+
+hr{
+    width: 90%;
+    background-color: #3b5249;
+    box-shadow: none;
+}
+
+p{
+    margin: 0;
+    font-weight: 700;
+}
+input{
+    margin-bottom: 10px;
+    width: 200px;
+    border-radius: 5px 5px;
+    border: 1px solid #519872;
+}
+.compbtn{
+    background-color: #8aea92;
+    height: 40px;
+    width: 150px;
+    font-size: 1.5rem;
+    transition: 0.8s;
+    border: none;
+}
+.prvnxt{
+    height: 40px;
+    background-color: #3b5249;
+    color: white;
+    font-weight: 900;
+    font-size: .85rem;
+    border: none;
+}
+/* .step1{
+    margin-right: 50px;
+} */
+.btnspace{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+}
+.compbtn:hover{
+    height: 50px;
+    width: 160px;
+}
+
+.cancelbtn{
+    background-color: #FEC2C2;
+    height: 30px;
+    width: 65px;
+    font-weight: 900;
+    font-size: .85rem;
+    border: none;
+}

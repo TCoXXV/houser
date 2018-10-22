@@ -1,0 +1,15 @@
+.headdiv{
+    height: 100px;
+    width: 100vw;
+    background-color: #519872;
+    color: white;
+    font-size: 2rem;
+    font-weight: 600;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}
+.headdiv2{
+    width: 60%;
+    /* margin-right: 250px */
+}
